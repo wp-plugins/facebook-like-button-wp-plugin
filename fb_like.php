@@ -4,7 +4,7 @@
 Plugin Name: Facebook Like Button plugin
 Plugin URI: http://github.com/ayn/wp-facebook-like-button/
 Description: a quick and dirty wordpress plugin to add FB Like button.
-Version: v0.1
+Version: v0.2
 Author: Andrew Ng
 Author URI: http://blog.andrewng.com
 
